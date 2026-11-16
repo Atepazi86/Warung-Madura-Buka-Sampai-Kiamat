@@ -1,0 +1,6 @@
+{
+  "name": "Warung Madura: Buka Sampai Kiamat",
+  "description": "Game arcade 2D komedi Indonesia: jaga Warung Madura 24 jam melayani warga, emak-emak, pocong, hingga alien sambil menahan rolling door saat kiamat!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
